@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "仪礼简",
+    "dynasty": "东汉",
+    "origin": "武威磨嘴子汉墓",
+    "category": "礼制",
+    "description": "中国考古史上首次发现的简牍版儒家经典，对研究西汉经学及简帛版本学具有极高价值。",
+    "research_hotspot": "简牍形制与西汉“六经”版本的校勘、汉代礼制的社会实践、简牍书法风格演变。",
+    "image_url": "https://via.placeholder.com/600x400?text=Wuwei+Ritual+Slips+(Gansu+Provincial+Museum)"
+  },
+  {
+    "id": 2,
+    "name": "武威汉代医简",
+    "dynasty": "东汉",
+    "origin": "武威旱滩坡汉墓",
+    "category": "医疗",
+    "description": "被誉为“活的汉代医书”，涵盖内科、外科、妇科及针灸等，填补了中医临床文献的空白。",
+    "research_hotspot": "早期方剂学演进、汉代经络理论、简牍所见中古汉语音韵及药物名称考证。",
+    "image_url": "https://via.placeholder.com/600x400?text=Wuwei+Medical+Slips+(Hantanpo+Excavation)"
+  },
+  {
+    "id": 3,
+    "name": "王杖诏书令简",
+    "dynasty": "东汉",
+    "origin": "武威磨嘴子汉墓",
+    "category": "法律",
+    "description": "详细记载汉代尊老、养老的法令，是研究汉代社会保障体系与文书格式的核心史料。",
+    "research_hotspot": "汉代养老法律制度、诏书文体格式、汉代社会基层治理中的法治与伦理。",
+    "image_url": "https://via.placeholder.com/600x400?text=Wang+Zhang+Edict+Slips+(Wuwei+Han+Tomb)"
+  }
+]
