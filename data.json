@@ -10,7 +10,7 @@
     "preservation": "保存极佳，墨迹如新，是目前所见《仪礼》最古老的手写本。",
     "description": "被誉为“天下第一汉简”。包含甲、乙、丙三种本子，共469枚。简文笔法秀丽工整，是成熟的汉隶。内容包括《士相见》、《服传》、《特牲》、《少牢》、《有司》、《燕礼》、《大射》七篇，对研究汉代经学、版本学及汉代书法艺术具有极高的学术价值。",
     "research_hotspot": "《仪礼》版本校勘、汉代简册制度复原、汉隶书法演变研究。",
-    "image_url": "/static/images/武威仪礼简.jpg"
+    "image_url": "/static/images/wuwei_ritual_slips.jpg"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "preservation": "保存完整，字迹清晰。",
     "description": "被誉为“活的汉代医书”。记录医方30余个、药物100余种。涉及内科、外科、妇科、五官科及针灸等。它是中国最早的本草学资料之一，记录了“活血化瘀”理论及多种药物配伍，填补了《五十二病方》至《伤寒杂病论》之间的医学空白。",
     "research_hotspot": "早期方剂学、汉代针灸经络理论、古药物名称考证。",
-    "image_url": "/static/images/武威汉代医简.jpeg"
+    "image_url": "/static/images/wuwei_medical_slips.jpeg"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "preservation": "字迹清晰分明。",
     "description": "汉代王杖制度实物证据。简文详细规定了70岁以上老人获赐“王杖”后的特权，如“入官府不趋”、“市卖免税”等，地位相当于六百石官员。这批简牍是研究汉代社会保障体系、法律制度及文书格式的珍贵史料。",
     "research_hotspot": "汉代养老制度、法律文书格式、社会基层治理结构。",
-    "image_url": "/static/images/王杖诏书令简.jpeg"
+    "image_url": "/static/images/wangzhang_edict_slips.jpeg"
   },
   {
     "id": 4,
@@ -46,7 +46,7 @@
     "category": "行政/军事",
     "description": "汉代隶书的“标准库”，包含大量公文书、簿籍，展现了隶书由秦隶向汉隶的演变。数量巨大，内容涉及屯戍边防、烽火制度及日常生活。",
     "research_hotspot": "汉代边塞防御体系、简牍隶书的书法演变规律、汉代社会经济史料挖掘。",
-    "image_url": "/static/images/居延汉简.jpg"
+    "image_url": "/static/images/juyan_han_slips.jpg"
   },
   {
     "id": 5,
@@ -56,7 +56,7 @@
     "category": "军事/行政",
     "description": "记录了丝路边防屯戍生活，其中的“屯戍丛帖”是研究草隶（章草雏形）的关键。内容极其丰富，被誉为“汉代边塞百科全书”。",
     "research_hotspot": "汉代邮驿制度、章草书法的形成与发展、丝绸之路早期交通与贸易。",
-    "image_url": "/static/images/敦煌汉简.jpg"
+    "image_url": "/static/images/dunhuang_han_slips.jpg"
   },
   {
     "id": 6,
@@ -66,7 +66,7 @@
     "category": "文书/信札",
     "description": "展现了从隶书向楷书、行书过渡的形态，是书法史上“魏晋风度”的先声。其中《李柏文书》是行书早期的杰出代表。",
     "research_hotspot": "魏晋书法流变、楼兰古国的兴衰历史、魏晋时期西域的屯田与治理。",
-    "image_url": "/static/images/楼兰残简.jpg"
+    "image_url": "/static/images/loulan_fragments.jpg"
   },
   {
     "id": 7,
@@ -76,7 +76,7 @@
     "category": "法律/经济",
     "description": "记录了丝路南道的古老语言，是研究西域三十六国法律、经济的唯一文字证据。字体为佉卢文，内容涉及买卖、契约、诉讼等。",
     "research_hotspot": "丝绸之路语言交流、精绝国社会结构、中亚文化与汉文化的融合。",
-    "image_url": "/static/images/尼雅佉卢文木牍.jpg"
+    "image_url": "/static/images/niya_kharosthi_wood.jpg"
   },
   {
     "id": 8,
@@ -86,7 +86,7 @@
     "category": "行政/赋税",
     "description": "虽非核心丝路出土，但其行草书体对研究丝路文书的标准化具有极高对比价值。数量庞大，主要为孙吴时期的司法文书和赋税名籍。",
     "research_hotspot": "孙吴时期的户籍赋税制度、楷书与行草的并行发展、简牍形制与文书行政。",
-    "image_url": "/static/images/长沙走马楼吴简.jpg"
+    "image_url": "/static/images/changsha_zoumalou_wu_slips.jpg"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "category": "经籍/文书",
     "description": "包含大量《论语》、《诗经》残卷，展现了唐代楷书在西域的极高普及度。记录了唐代西域的政治、经济、军事及宗教活动。",
     "research_hotspot": "唐代西域治理模式、儒家经典在西域的传播、唐代楷书的标准化与艺术特色。",
-    "image_url": "/static/images/吐鲁番出土文书.jpg"
+    "image_url": "/static/images/turpan_documents.jpg"
   },
   {
     "id": 10,
@@ -106,7 +106,7 @@
     "category": "诏书",
     "description": "内容为汉代中央下发给基层的“诏书”，字体法度严谨，是典型的官式隶书。字形扁平，波磔分明，具有极高的庙堂气象。",
     "research_hotspot": "汉代诏书发布流程、标准隶书（八分书）的艺术特征、汉代中央与地方的行政关系。",
-    "image_url": "/static/images/甘谷汉简.jpg"
+    "image_url": "/static/images/gangu_han_slips.jpg"
   },
   {
     "id": 11,
@@ -116,7 +116,7 @@
     "category": "宗教/经籍",
     "description": "世界公认的中国书法艺术宝库，包含大量成熟的经生体楷书。这些写经书法结构严谨、笔法纯熟，对后世书法影响深远。",
     "research_hotspot": "敦煌写经的书法艺术风格、佛教经典的版本学研究、古代造纸与装帧技术。",
-    "image_url": "/static/images/敦煌遗书（写经体）.jpg"
+    "image_url": "/static/images/dunhuang_manuscripts.jpg"
   },
   {
     "id": 12,
@@ -126,6 +126,6 @@
     "category": "外交/驿站",
     "description": "专门记录外交接待的档案，包含康居、大月氏等国来使记录，是“活的丝路史”。详细记载了驿站的接待规格、消耗物资及往来人员。",
     "research_hotspot": "汉代丝绸之路外交制度、悬泉置驿站的运作机制、中西文化交流实证。",
-    "image_url": "/static/images/悬泉置汉简.jpg"
+    "image_url": "/static/images/xuanquanzhi_han_slips.jpg"
   }
 ]
